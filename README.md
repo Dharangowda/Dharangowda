@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Dharan Gowda
 
-<!--
-**Dharangowda/Dharangowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student (2026)
+🧠 Product Reliability & Full Stack Engineer
 
-Here are some ideas to get you started:
+I enjoy breaking products before users do.
+Focused on manual testing, edge cases, and real-world reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- AI Financial Assistant – live, tested, deployed
+- Safe Social Media Platform – AI moderation & edge cases
+- Carbon Footprint Tracker – full stack analytics
+
+🔗 Live Project: https://invectio.onrender.com/
